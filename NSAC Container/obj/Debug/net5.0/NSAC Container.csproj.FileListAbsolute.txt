@@ -1,0 +1,16 @@
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\obj\Debug\net5.0\NSAC Container.csprojAssemblyReference.cache
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\obj\Debug\net5.0\NSAC Container.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\obj\Debug\net5.0\NSAC Container.AssemblyInfoInputs.cache
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\obj\Debug\net5.0\NSAC Container.AssemblyInfo.cs
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\obj\Debug\net5.0\NSAC Container.csproj.CoreCompileInputs.cache
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\obj\Debug\net5.0\NSAC Container.genruntimeconfig.cache
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\bin\Debug\net5.0\NSACContainer.exe
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\bin\Debug\net5.0\NSACContainer.deps.json
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\bin\Debug\net5.0\NSACContainer.runtimeconfig.json
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\bin\Debug\net5.0\NSACContainer.runtimeconfig.dev.json
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\bin\Debug\net5.0\NSACContainer.dll
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\bin\Debug\net5.0\ref\NSACContainer.dll
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\bin\Debug\net5.0\NSACContainer.pdb
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\obj\Debug\net5.0\NSACContainer.dll
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\obj\Debug\net5.0\ref\NSACContainer.dll
+C:\Users\darkx\source\repos\NSAC Container\NSAC Container\obj\Debug\net5.0\NSACContainer.pdb
